@@ -1,5 +1,5 @@
 class Dropdown {
-    constructor(array, cb) {
+    constructor(array) {
         this.array = array;
     }
     create() {
